@@ -3032,11 +3032,7 @@ Scheme
 			}
 		}
 		
-
-
-
-
-
+		
 		AltoneTrialRegular12
 		{
 			"1"

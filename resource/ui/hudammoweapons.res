@@ -105,7 +105,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"AltoneTrialRegular12"
+		"font"			"AltoneTrialRegular16"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"0"
 		"ypos"			"0"

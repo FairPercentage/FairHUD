@@ -81,7 +81,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"AltoneTrialRegular12"
+		"font"			"AltoneTrialRegular16"
 		"fgcolor"		"255 255 255 255"
 	}
 	"PlayerStatusMaxHealthValue"
