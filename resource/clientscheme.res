@@ -3096,6 +3096,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		AltoneTrialRegular56
+		{
+			"1"
+			{
+				"name"		"Altone Trial Regular"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	
