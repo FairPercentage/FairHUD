@@ -3032,6 +3032,16 @@ Scheme
 			}
 		}
 		
+		AltoneTrialRegular8
+		{
+			"1"
+			{
+				"name"		"Altone Trial Regular"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
 		
 		AltoneTrialRegular12
 		{
